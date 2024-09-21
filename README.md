@@ -4,7 +4,6 @@
 I'm a passionate software developer with a strong focus in Ruby on Rails development.
 
 - 🌱 I’m currently learning: ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white)
-- 📫 How to reach me: ![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white) [razvanytb1@gmail.com](mailto:razvanytb1@gmail.com)
 
 ## 🛠️ Technologies & Tools
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
